@@ -2,8 +2,9 @@
 <h3 align="center">A frontend developer from Brazil</h3>
 <hr>
 
-<img src="https://komarev.com/ghpvc/?username=higinorodrigo&label=Profile%20views&color=0e75b6&style=flat" alt="higinorodrigo" />
-<a href="https://twitter.com/rodrigohigin" target="blank"><img src="https://img.shields.io/twitter/follow/rodrigohigin?logo=twitter&style=for-the-badge" alt="rodrigohigin" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=higinorodrigo&label=Profile%20views&color=0e75b6&style=flat" alt="higinorodrigo" /> </p>
+
+<p align="left"> <a href="https://twitter.com/rodrigohigin" target="blank"><img src="https://img.shields.io/twitter/follow/rodrigohigin?logo=twitter&style=for-the-badge" alt="rodrigohigin" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, CSS grid/flex-box, ReactJS, NextJS**
 
