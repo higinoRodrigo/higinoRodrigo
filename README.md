@@ -25,5 +25,5 @@
 
 <h2>🚀 &nbsp;A Little More About My Profile</h2>
 
-![Rodrigo Higino GitHub Stats](https://github-readme-stats.vercel.app/api?username=higinoRodrigo&show_icons=true&theme=dracula)
-![Rodrigo Higino GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=higinorodrigo&show_icons=true&theme=dracula)
+![Rodrigo Higino GitHub Stats](https://github-readme-stats.vercel.app/api?username=higinoRodrigo&show_icons=true&theme=dracula&count_private=true)
+![Rodrigo Higino GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=higinorodrigo&show_icons=true&theme=dracula&count_private=true)
