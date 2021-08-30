@@ -19,6 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactNative)
 ![NextJs](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=NextJs)
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
 
@@ -26,4 +27,3 @@
 <h2>🚀 &nbsp;A Little More About My Profile</h2>
 
 ![Rodrigo Higino GitHub Stats](https://github-readme-stats.vercel.app/api?username=higinoRodrigo&show_icons=true&theme=dracula&count_private=true)
-![Rodrigo Higino GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=higinorodrigo&show_icons=true&theme=dracula&count_private=true)
