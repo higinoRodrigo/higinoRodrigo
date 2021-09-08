@@ -25,5 +25,10 @@
 
 
 <h2>🚀 &nbsp;A Little More About My Profile</h2>
+<div style="display: inline-block"><br>
+  <a href="https://github.com/higinoRodrigo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higinoRodrigo&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciane-lark&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
-![Rodrigo Higino GitHub Stats](https://github-readme-stats.vercel.app/api?username=higinoRodrigo&show_icons=true&theme=dracula&count_private=true)
+![Snake animation](https://github.com/franciane-lark/franciane-lark/blob/output/github-contribution-grid-snake.svg)
