@@ -1,5 +1,4 @@
-<h1>Rodrigo Higino</h1>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&repeat=false&random=false&width=435&lines=Rodrigo+Higino+Programmer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Higino-3300c0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigohiginodev/)](https://www.linkedin.com/in/rodrigohiginodev/) 
 [![Email Badge](https://img.shields.io/badge/-rodrigo@molde.dev-3300c0?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigo@molde.dev)](mailto:rodrigo@molde.dev)
