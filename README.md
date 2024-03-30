@@ -1,34 +1,26 @@
-<h1>👋 &nbsp;Hi, I'm Rodrigo, a passionate front end developer.</h1>
-<p align="center">
-<a href="https://www.linkedin.com/in/rodrigohiginodev/"><img src="https://img.shields.io/badge/-Rodrigo%20Higino%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=higinorodrigo&label=Profile%20views&color=674ff1&style=flat-square" alt="higinorodrigo" />
-<a href="https://twitter.com/rodrigohigin"><img src="https://img.shields.io/badge/-Rodrigo%20Higino%20-0077B5?style=flat-square&logo=Twitter&logoColor=white"/></a>
+<h1>Rodrigo Higino</h1>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Higino-3300c0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigohiginodev/)](https://www.linkedin.com/in/rodrigohiginodev/) 
+[![Email Badge](https://img.shields.io/badge/-rodrigo@molde.dev-3300c0?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigo@molde.dev)](mailto:rodrigo@molde.dev)
+[![Twitter Badge](https://img.shields.io/badge/-@rodrigohigin-3300c0?style=flat-square&labelColor=3300c0&logo=x&logoColor=white&link=https://twitter.com/rodrigohigin)](https://twitter.com/rodrigohigin) 
 
 </p>
-
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
-
-- 👨🏻‍💻 &nbsp; I started programming at the beginning of the pandemic and fell in love with programming.
-- 💼 &nbsp; Today I have a company with my friends focused on developing on-demand applications for companies and government agencies.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactNative)
-![NextJs](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=NextJs)
+![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+</br>
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
-
-
-<h2>🚀 &nbsp;A Little More About My Profile</h2>
-<div style="display: inline-block"><br>
-  <a href="https://github.com/higinoRodrigo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higinoRodrigo&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciane-lark&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
-![Snake animation](https://github.com/franciane-lark/franciane-lark/blob/output/github-contribution-grid-snake.svg)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-333333?style=flat&logo=styled-components)
+![Ant Design](https://img.shields.io/badge/-Ant_Design-333333?style=flat&logo=ant-design)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
