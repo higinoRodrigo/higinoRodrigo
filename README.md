@@ -28,13 +28,10 @@
 
 <br>
 
-![Claude](https://img.shields.io/badge/Claude-6c3483?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-6c3483?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-6c3483?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-6c3483?style=for-the-badge&logo=cursor&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-6c3483?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-6c3483?style=for-the-badge&logo=heart&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-6c3483?style=for-the-badge&logo=openai&logoColor=white)
-![SDD](https://img.shields.io/badge/SDD-Spec_Driven_Development-A855F7?style=for-the-badge&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok_Bot-6c3483?style=for-the-badge&logo=x&logoColor=white)
 
 ---
 
